@@ -4,19 +4,6 @@ A lightweight Python command-line tool for spoofing the MAC address of a network
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [How It Works](#how-it-works)
-- [Disclaimer](#disclaimer)
-
----
-
 ## About
 
 MAC Changer lets you temporarily change the hardware (MAC) address of any network interface on a Linux machine. This is useful for privacy, penetration testing labs, and network troubleshooting.
