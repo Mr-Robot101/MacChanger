@@ -44,8 +44,8 @@ sudo pacman -S net-tools         # Arch Linux
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/mac-changer.git
-cd mac-changer
+git clone https://github.com/Mr-Robot101/MacChanger.git
+cd MacChanger
 ```
 
 2. **No additional dependencies required** — the script uses only Python standard library modules.
